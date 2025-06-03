@@ -6,7 +6,7 @@
 
 1. **Clone The Repositories:**
    ```bash
-   git clone https://github.com/vonssy/Nodepay-BOT.git
+   git clone https://github.com/Raisyamumet/ND.git
    ```
    ```bash
    cd Nodepay-BOT
